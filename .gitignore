@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter's autosave/checkpoint folder
+.ipynb_checkpoints/
+
+# Virtual environment folders
+.venv/
+venv/
+
+# Python packaging metadata
+*.egg-info/
+
+# macOS Finder folder-veiw metadata
+.DS_Store
